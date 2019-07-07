@@ -4,6 +4,11 @@ This is a simple Messenger chat bot to calculate user birthday days. This bot sa
 
 ## How to Start
 
+### Configuring Messenger Webhook
+
+You can read how to configure it in [here](https://developers.facebook.com/docs/messenger-platform/).
+Make sure built-in NLP is on.
+
 ### Configuring .env
 
 ```.env
